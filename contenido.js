@@ -33,7 +33,7 @@ window.CONTENIDO = {
 
   /* ---------- PORTADA ---------- */
   perfil: {
-    nombre: "Del Piero Flores",
+    nombre: "Del Piero",
     nombreCorto: "Del Piero Flores",
     // OPCIONAL: el «número de parte» de arriba. Si no lo pones, se arma con tus iniciales y el año.
     // codigo: "DPF-26",
